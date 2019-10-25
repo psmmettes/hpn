@@ -47,7 +47,7 @@ cd ..
 ```
 Please cite the paper accordingly:
 ```
-@inproceedings{mettes2016hyperspherical,
+@inproceedings{mettes2019hyperspherical,
   title={Hyperspherical Prototype Networks},
   author={Mettes, Pascal and van der Pol, Elise and Snoek, Cees G M},
   booktitle={Advances in Neural Information Processing Systems},
