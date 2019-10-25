@@ -1,6 +1,6 @@
 #
 # ResNet implementation for CIFAR-10 and CIFAR-100.
-# Modified to work with polar prototype networks.
+# Modified to work with hyperspherical prototype networks.
 #
 # Basis code from: https://github.com/facebook/fb.resnet.torch and
 # https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py

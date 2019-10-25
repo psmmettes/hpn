@@ -6,8 +6,12 @@
 # - Subsample a dataset.
 # - Counter the number of parameters in a model.
 #
-# Pascal Mettes (2019).
-# Hyperspherical Prototype Networks - NeurIPS 2019.
+# @inproceedings{mettes2016hyperspherical,
+#  title={Hyperspherical Prototype Networks},
+#  author={Mettes, Pascal and van der Pol, Elise and Snoek, Cees G M},
+#  booktitle={Advances in Neural Information Processing Systems},
+#  year={2019}
+# }
 #
 
 import os
