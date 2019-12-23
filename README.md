@@ -27,6 +27,7 @@ python prototypes.py -c 100 -d 50 -r prototypes/sgd/
 ```
 In case you want to construct prototypes on CIFAR-100 or ImageNet-200 with word2vec representations, please download the wtv files as follows:
 ```
+mkdir -p wtv
 cd wtv/
 wget -r -nH --cut-dirs=3 --no-parent --reject="index.html*" http://isis-data.science.uva.nl/mettes/hpn/wtv/
 cd ..
