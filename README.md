@@ -1,5 +1,5 @@
 # Hyperspherical Prototype Networks
-This repository contains the PyTorch code the NeurIPS 2019 paper "Hyperspherical Prototype Networks".
+This repository contains the PyTorch code for the NeurIPS 2019 paper "Hyperspherical Prototype Networks".
 <br>
 The paper is available here: https://arxiv.org/abs/1901.10514
 <br><br>
