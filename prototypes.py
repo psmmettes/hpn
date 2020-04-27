@@ -31,6 +31,7 @@ def parse_args():
     parser.add_argument('-s', dest="seed", default=300, type=int)
     parser.add_argument('-r', dest="resdir", default="", type=str)
     parser.add_argument('-w', dest="wtvfile", default="", type=str)
+    parser.add_argument('-n', dest="nn", default=2, type=int)
     args = parser.parse_args()
     return args
 
